@@ -4,3 +4,5 @@ https://cmcx111.github.io/link/index.html
 https://cmcx111.github.io/categories/index.html
 https://cmcx111.github.io/tags/index.html
 https://cmcx111.github.io/
+https://cmcx111.github.io/tags/Github/
+https://cmcx111.github.io/tags/Hexo/

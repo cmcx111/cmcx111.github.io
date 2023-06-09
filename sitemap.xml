@@ -55,6 +55,20 @@
   </url>
 
   
+  <url>
+    <loc>https://cmcx111.github.io/tags/Github/</loc>
+    <lastmod>2023-06-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://cmcx111.github.io/tags/Hexo/</loc>
+    <lastmod>2023-06-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
 
   
 </urlset>
